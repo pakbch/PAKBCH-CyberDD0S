@@ -1,5 +1,6 @@
 # PAKBCH-CyberDD0S
 PAKBCH CYBER DDOS Can Take Down Multiple Sites At One Time
+Use VPS or Replit For Good Performance
 
 # Updates:
 
