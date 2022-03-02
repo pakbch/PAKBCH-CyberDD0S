@@ -8,6 +8,6 @@ Use VPS or Replit For Good Performance
 
 - added list feature
 - More Methods
-
+- Custom Power
 # Disclaimer
 We Are Not Responsible What U Will Do With This Tool
